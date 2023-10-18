@@ -1,0 +1,15 @@
+{
+    "producto":[
+        {
+            "id":1,
+            "nombre":"Laptop Hp",
+            "idCategoria": 1
+        }
+    ],
+    "categoria":[
+        {
+            "id":1,
+            "nombre":"PC"
+        }
+    ]
+}
