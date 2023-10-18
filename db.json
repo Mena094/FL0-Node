@@ -1,6 +1,11 @@
 {
     "producto":[
         {
+            "id":2,
+            "nombre":"Si funciona xd",
+            "idCategoria": 1
+        },
+        {
             "id":1,
             "nombre":"Laptop Hp",
             "idCategoria": 1
@@ -10,6 +15,20 @@
         {
             "id":1,
             "nombre":"PC"
+        },
+        {
+            "id":2,
+            "nombre":"Pc2"
+        }
+    ],
+    "test":[
+        {
+            "id":1,
+            "nombre":"PC"
+        },
+        {
+            "id":2,
+            "nombre":"Pc2"
         }
     ]
 }
